@@ -100,7 +100,7 @@ const Header = () => {
               onChange={(e) => setPassword(e.target.value)}
               type="password"
               placeholder="Enter your password"
-              className="w-f   p-2 border border-gray-300 rounded"
+              className="w-full   p-2 border border-gray-300 rounded"
             />
           </div>
 
